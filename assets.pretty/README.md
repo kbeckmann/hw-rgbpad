@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/tylercrumpton/CrumpPrints.pretty/master/APA102.kicad_mod

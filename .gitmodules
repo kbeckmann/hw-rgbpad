@@ -1,0 +1,3 @@
+[submodule "thirdparty/CrumpSchemes"]
+	path = thirdparty/CrumpSchemes
+	url = https://github.com/tylercrumpton/CrumpSchemes

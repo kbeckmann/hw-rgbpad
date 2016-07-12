@@ -1,4 +1,4 @@
-update=2016-07-10 21:15:21
+update=2016-07-12 21:19:04
 version=1
 last_client=kicad
 [pcbnew]
@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=../schema-components
+LibDir=../schema-components;../thirdparty/CrumpSchemes
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -60,3 +60,4 @@ LibName28=contrib
 LibName29=valves
 LibName30=BUTTONPAD-2X2
 LibName31=stm32
+LibName32=C:/Users/Konrad/hw/hw-rgbpad/thirdparty/CrumpSchemes/crumpschemes
