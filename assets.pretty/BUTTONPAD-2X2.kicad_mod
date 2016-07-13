@@ -1,4 +1,4 @@
-(module BUTTONPAD-2X2 (layer F.Cu) (tedit 57841E56)
+(module BUTTONPAD-2X2 (layer F.Cu) (tedit 578687C2)
   (fp_text reference P2 (at 2.54 -6.35) (layer F.SilkS)
     (effects (font (thickness 0.15)))
   )
