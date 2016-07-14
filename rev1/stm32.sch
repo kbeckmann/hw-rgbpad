@@ -409,7 +409,7 @@ F 1 "JUMPER" H 5550 1220 50  0000 C CNN
 F 2 "Pin_Headers:Pin_Header_Angled_1x02" H 5550 1300 50  0001 C CNN
 F 3 "" H 5550 1300 50  0000 C CNN
 	1    5550 1300
-	0    1    -1   0   
+	0    1    1    0   
 $EndComp
 $Comp
 L GND #PWR042
